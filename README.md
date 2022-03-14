@@ -9,7 +9,7 @@ Use the message list component to show a conversation between the users of a cas
 ## How it works
 The message list component is a styled unordered list with each message contained in a list item.
 
-'''
+```
 <h2 id="messages" class="govuk-heading-l">Messages</h2>
 <ul class="govuk-list nigov-message" aria-labelledby="messages">
     <li id="message-1" tabindex="-1">
@@ -38,5 +38,5 @@ The message list component is a styled unordered list with each message containe
         </button>
     </li>
 </ul>
-'''
+```
 
