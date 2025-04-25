@@ -6,7 +6,7 @@
 ## When to use it
 Use the message list component to show a conversation between the users of a case management system.
 
-I have included a HTML example - [viewCorrespondence_example.html](./viewCorrespondence_example.html), in this repository, of how the message list component should be used.
+I have included a HTML example - [viewCorrespondence_example.html](https://davidcreativeuk.github.io/NIGOV-message-list/viewCorrespondence_example.html), in this repository, of how the message list component should be used.
 
 ![Example of the nigov message list component](./readme-images/view-correspondence-example.png)
 
